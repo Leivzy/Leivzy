@@ -15,7 +15,7 @@
 🌟 If you find my work interesting, a star on my repository would brighten someone's day! Let's learn and grow together! 🌏
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [SnowCrow](https://leivzy.top/).
+- 🔭 I’m currently building [SnowCrow](https://www.leivzy.top/).
 - 🌱 I’m currently learning more about Javaweb.
 - 🤔 I’m looking for help with IDEAVim documentation.
 - 📫 How to reach me: [leivzy@163.com](leivzy@163.com).
