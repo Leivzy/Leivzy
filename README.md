@@ -18,7 +18,7 @@
 - 🔭 I’m currently building [SnowCrow](https://www.leivzy.top/).
 - 🌱 I’m currently learning more about Javaweb.
 - 🤔 I’m looking for help with IDEAVim documentation.
-- 📫 How to reach me: [leivzy@163.com](leivzy@163.com).
+- 📫 How to reach me: [linustox@outlook.com].
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 # 💻 Tech Stack
